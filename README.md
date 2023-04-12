@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dilettantesoul&label=Profile%20views&color=0e75b6&style=flat" alt="dilettantesoul" /> </p>
 
-<p align="left"> <a href="https://twitter.com/dilettantesoul" target="blank"><img src="https://img.shields.io/twitter/follow/hakrboy?logo=twitter&style=for-the-badge" alt="dilettantesoul" /></a> </p>
+<p align="left"> <a href="https://twitter.com/dilettantspirit" target="blank"><img src="https://img.shields.io/twitter/follow/hakrboy?logo=twitter&style=for-the-badge" alt="dilettantspirit" /></a> </p>
 
 - 🌱 I’m currently learning **Flutter and Dart**
 
@@ -15,7 +15,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/dilettantesoul" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="dilettantesoul" height="30" width="40" /></a>
+<a href="https://twitter.com/dilettantspirit" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="dilettantspirit" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/dilettantesoul" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dilettantesoul" height="30" width="40" /></a>
 <a href="https://fb.com/dilettantesoul" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="dilettantesoul" height="30" width="40" /></a>
 <a href="https://instagram.com/dilettantesoul" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="dilettantesoul" height="30" width="40" /></a>
